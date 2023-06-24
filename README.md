@@ -11,3 +11,4 @@ pcb上屏幕的孔开小了，导致屏幕搭在板子上，需要开大点[紧�
 没有RGB影响连段稳定性，加上led灯[紧急程度高]  
 
 ![成品](https://github.com/Pickl-3/hitbox-fightstick-game-device/blob/main/assets/yellow+pink.jpg?raw=true)
+*感谢超频a，张博士，89g及所有在如今互联网时代依旧坚持大共享精神的人*
